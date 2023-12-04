@@ -1,10 +1,8 @@
-# PR_Prueba_Tecnica
+#  DATA ENGINEER & BI Analyst - EXAM
 
 Este repositorio incluye los entregables a los Ejecrcicios 1 y 2 de la prueba Técnica para el puesto de Data Engineer.
 
-## DATA ENGINEER & BI Analyst - EXAM
-
-* Ejercicio 1. Bases de Datos
+## Ejercicio 1. Bases de Datos
   * Entregables:
     
     Los resultados de este ejercicio fueron obtenidos bajo el supuesto de que cada cliente no deberá tener más de un protocolo igual. Por lo que, considerando el Data Sample proporcionado, se incluye una agrupación de protocolos para ser considerados todos los tipos de tráficos en el cálculo del tráfico total. Se requeriría más contexto de caso de uso en negocio para determinar si el resultado sería el más conveniente.
@@ -18,8 +16,8 @@ Este repositorio incluye los entregables a los Ejecrcicios 1 y 2 de la prueba T�
       | E4-00-CE-46-3F-26 | IMAP,DNS |
       
     - SQL de la consulta: [E1.sql](E1.sql)
-   
-* Ejercicio 2. Programación
+
+## Ejercicio 2. Programación
   * Entregables:
     - Código de la función: [E2.py](E2.py)
     - Pruebas Unitarias:
