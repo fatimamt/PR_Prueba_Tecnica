@@ -31,5 +31,6 @@ Este repositorio incluye los entregables a los Ejecrcicios 1 y 2 de la prueba T�
 
 ## Ejercicio 3. Pipeline y orquestación
  * Entregables:
+   Se entregan archivos solicitados para ser ejecutados en Airflow. El código en lenguaje Python, se complementa con las funciones declaradas en la carpeta [utils](utils), como función de apoyo para la lectura y manejo del archivo compartido. El flujo completo leerá el archivo en Excel que debe cumplir con las condiciones actuales (dos Sheets: Matriz de Adyacencia y Lista de Actores, columnas de la A a la AZ para la matriz, etc.), dentro de una función de Python, este archivo se convertirá a archivos CSV lo cuales serán los cargados a la base de Datos de MySQL en dos tablas, una de relación donde se ingestarán los valores de la matriz con el código referente a los actores, y otro donde se almacenarán la dimensión de relación código-actor.
    -  Código en Python con la configuración del Pipeline de datos: [palace_resorts_data_eng_test.py](palace_resorts_data_eng_test.py)
    -  Querys utilizados para generar la DB y tablas: [queries](queries)
