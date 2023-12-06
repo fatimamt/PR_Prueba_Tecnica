@@ -28,3 +28,8 @@ Este repositorio incluye los entregables a los Ejecrcicios 1 y 2 de la prueba T�
       | \[22, 5\] | \[40, 41\] | \[2, 2\] |
       | \[88, 48, 99, 38, 37] | \[77, 31, 63, 91, 37, 12, 33, 72, 58, 80] | \[3, 0, 3, 4, 1, 0, 0, 3, 3, 3] |
       | \[77, 31, 63, 91, 37, 12, 33, 72, 58, 80] | \[88, 48, 99, 38, 37] | \[9, 4, 10, 4, 4] |
+
+## Ejercicio 3. Pipeline y orquestación
+ * Entregables:
+   -  Código en Python con la configuración del Pipeline de datos: [palace_resorts_data_eng_test.py][palace_resorts_data_eng_test.py]
+   -  Querys utilizados para generar la DB y tablas: [queries][queries]
