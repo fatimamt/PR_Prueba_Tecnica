@@ -31,5 +31,5 @@ Este repositorio incluye los entregables a los Ejecrcicios 1 y 2 de la prueba T�
 
 ## Ejercicio 3. Pipeline y orquestaci처n
  * Entregables:
-   -  C처digo en Python con la configuraci처n del Pipeline de datos: [palace_resorts_data_eng_test.py][palace_resorts_data_eng_test.py]
-   -  Querys utilizados para generar la DB y tablas: [queries][queries]
+   -  C처digo en Python con la configuraci처n del Pipeline de datos: [palace_resorts_data_eng_test.py](palace_resorts_data_eng_test.py)
+   -  Querys utilizados para generar la DB y tablas: [queries](queries)
